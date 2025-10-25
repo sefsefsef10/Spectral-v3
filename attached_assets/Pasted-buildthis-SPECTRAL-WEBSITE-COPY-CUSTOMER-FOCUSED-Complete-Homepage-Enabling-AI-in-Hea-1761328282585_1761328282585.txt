@@ -1,0 +1,1173 @@
+buildthis
+
+
+
+SPECTRAL WEBSITE COPY (CUSTOMER-FOCUSED)
+
+Complete Homepage - "Enabling AI in Healthcare"
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+HERO SECTION
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+Finally, Governance for Healthcare AI
+
+
+
+Your board asks: "Are we compliant across all our AI?"
+
+Tomorrow, you can say: "Yes. Here's proof."
+
+
+
+One platform to see, monitor, and prove compliance across every AI vendor—
+
+from Epic and OpenAI to imaging vendors and internal tools.
+
+
+
+[See How It Works] [Talk to an Expert]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+5 health systems deployed  |  240+ AI models verified  |  2-3 weeks to deployment
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+FOR HEALTH SYSTEMS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+Your AI Problem Right Now
+
+
+
+You're deploying AI faster than you can govern it.
+
+
+
+You probably have:
+
+• Epic AI built into your EHR
+
+• 3-5 imaging AI vendors (radiology, pathology)
+
+• Documentation tools (ambient scribes, clinical notes)
+
+• Internal productivity platforms
+
+• Point solutions you forgot about
+
+
+
+Your CISO can't answer basic questions:
+
+❌ "What AI do we have deployed?"
+
+❌ "Is it HIPAA compliant?"
+
+❌ "Are we monitoring for PHI leakage?"
+
+❌ "Can we prove this to auditors?"
+
+
+
+Your procurement team is stuck:
+
+❌ Evaluating vendor #8 with the same 120 questions
+
+❌ Waiting 6 months per security review
+
+❌ No standardized process
+
+❌ Every vendor evaluation starts from scratch
+
+
+
+Your board is asking questions you can't answer.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+What Spectral Does
+
+
+
+One platform to govern all your AI—regardless of vendor.
+
+
+
+🪐 SEE EVERYTHING
+
+   Complete inventory of every AI system across your organization
+
+   • What: Model names, versions, owners
+
+   • Where: Which departments, which workflows
+
+   • Risk: High/medium/low categorization
+
+   • Status: Real-time compliance dashboard
+
+   
+
+   Finally answer: "What AI do we have?"
+
+
+
+🛡️ MONITOR IN REAL-TIME
+
+   24/7 safety monitoring across all vendors
+
+   • PHI leakage detection (catch it before breach)
+
+   • Model drift alerts (know when performance degrades)
+
+   • Bias monitoring (demographic equity checks)
+
+   • Automated rollback (stop failures instantly)
+
+   
+
+   Finally answer: "Is our AI safe right now?"
+
+
+
+📊 PROVE COMPLIANCE
+
+   Automated audit evidence for regulators
+
+   • Daily HIPAA compliance reports
+
+   • NIST AI RMF mapping
+
+   • FDA readiness documentation
+
+   • State law compliance (CA, CO, NYC)
+
+   
+
+   Finally answer: "Can we prove we're compliant?"
+
+
+
+🔷 FAST-TRACK VENDORS
+
+   Accept pre-verified vendors in weeks, not months
+
+   • Independent third-party certification
+
+   • Skip redundant security reviews
+
+   • "Spectral Verified" = pre-approved
+
+   • Growing network of certified vendors
+
+   
+
+   Finally answer: "How do we speed up procurement?"
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Real Results
+
+
+
+"We discovered 23 AI deployments. We thought we had 8."
+
+— CISO, 500-bed hospital
+
+
+
+"Board meeting prep went from 6 weeks to 2 hours."
+
+— VP Compliance, Academic Medical Center
+
+
+
+"PHI pattern detected in vendor output. Spectral caught it, 
+
+rolled back automatically. Breach prevented."
+
+— CIO, Regional Health System
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+The Math
+
+
+
+Without Spectral:
+
+• Hire AI compliance staff: $410K/year
+
+• Evaluate each vendor manually: 6-12 months each
+
+• Audit prep scramble: 6 weeks every audit
+
+• Board asks questions you can't answer
+
+
+
+With Spectral:
+
+• Platform: $200-400K/year
+
+• Deploy in weeks: Pre-verified vendors
+
+• Always audit-ready: Automated evidence
+
+• Board gets real-time dashboard
+
+
+
+Savings: $110-310K/year + 18-30 months faster deployment
+
+
+
+[Calculate Your Savings]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Pricing Built for Healthcare
+
+
+
+Foundation — $75K/year
+
+For: 1-3 AI systems
+
+Perfect for: Community hospitals, pilot programs
+
+
+
+What you get:
+
+✓ Real-time monitoring across your AI
+
+✓ Automated compliance reporting
+
+✓ Quarterly board summaries
+
+✓ Access to verified vendor network
+
+
+
+Example: 100-bed hospital governing Epic AI + 2 imaging vendors
+
+
+
+[Start with Foundation]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Growth — $200K/year ⭐ Most Common
+
+For: 4-10 AI systems
+
+Perfect for: Regional health systems
+
+
+
+What you get:
+
+✓ Everything in Foundation
+
+✓ Complete portfolio dashboard
+
+✓ Monthly executive reporting
+
+✓ Priority support
+
+
+
+Example: 300-bed system with Epic + 7 AI vendors
+
+
+
+[Schedule Demo]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Enterprise — $400K/year
+
+For: 11+ AI systems
+
+Perfect for: Academic medical centers, IDNs
+
+
+
+What you get:
+
+✓ Everything in Growth
+
+✓ Dedicated success manager
+
+✓ Custom integrations
+
+✓ 99.9% SLA guarantee
+
+
+
+Example: 8-hospital IDN, 20+ AI vendors across network
+
+
+
+[Talk to Sales]
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+FOR AI VENDORS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+Your Sales Problem Right Now
+
+
+
+You've closed the champion. They love your product.
+
+
+
+Then procurement asks for:
+
+• 120-question security questionnaire
+
+• Architecture review
+
+• PHI handling documentation
+
+• Bias testing results
+
+• Clinical validation studies
+
+• HIPAA compliance proof
+
+• References from other health systems
+
+
+
+6 months later, you're still answering questions.
+
+
+
+The deal dies in security review. Again.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+What Spectral Does
+
+
+
+Get verified once. Close deals everywhere.
+
+
+
+Get "Spectral Verified" certification:
+
+✓ Independent third-party validation
+
+✓ Healthcare AI-specific testing (PHI, bias, drift, security)
+
+✓ Mapped to HIPAA, NIST, FDA standards
+
+✓ Accepted by growing network of health systems
+
+
+
+Show the badge. Skip the 6-month review.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+How It Works
+
+
+
+1. Submit your AI for verification (1 day)
+
+2. We test it (2-6 weeks depending on tier)
+
+3. Get your Spectral Verified badge
+
+4. Share your Trust Page in every deal
+
+5. Health systems fast-track you
+
+
+
+Procurement time: 6-12 months → 2-3 weeks
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+What You Get
+
+
+
+Every verification includes:
+
+
+
+📄 Trust Page
+
+   Public URL showing your verification status
+
+   Mapped to HIPAA/NIST/FDA/ISO standards
+
+   Share in every pitch and RFP
+
+
+
+🏅 Spectral Verified Badge
+
+   Display on your website and pitch decks
+
+   Procurement teams recognize it
+
+   Signals: independently validated, healthcare-ready
+
+
+
+📊 Gap Report (if needed)
+
+   Shows exactly what to fix before going public
+
+   Prioritized: Critical → Important → Nice-to-have
+
+   Most vendors iterate 1-2 times before certification
+
+
+
+Plus tier-specific benefits below.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Real Results
+
+
+
+"Closed deal in 3 weeks. Usually takes 9 months."
+
+— Founder, Clinical Documentation AI
+
+
+
+"Won RFP because we were only vendor with third-party certification."
+
+— CRO, Imaging AI Company
+
+
+
+"5 health systems fast-tracked us after seeing Spectral Verified."
+
+— VP Sales, Ambient Scribe Vendor
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+The ROI
+
+
+
+One $150K deal:
+
+• Without Spectral: 9 months to close
+
+• With Spectral: 6 weeks to close
+
+
+
+Get 3 deals 7 months earlier = $337K in accelerated revenue
+
+
+
+Certification costs $50K/year.
+
+Pays for itself on deal #1.
+
+
+
+[Calculate Your ROI]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Pricing for Vendors
+
+
+
+Verified — $15K/year
+
+For: Startups, early-stage vendors
+
+Timeline: 2-3 weeks
+
+
+
+What you get:
+
+✓ Spectral Verified badge + Trust Page
+
+✓ 50 model evaluations per year
+
+✓ Self-serve onboarding
+
+✓ Quarterly re-verification
+
+
+
+Example: 2-person startup, closed first health system deal in 3 weeks
+
+
+
+[Get Verified Now]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Certified — $50K/year ⭐ Most Popular
+
+For: Vendors actively selling into healthcare
+
+Timeline: 4-6 weeks
+
+
+
+What you get:
+
+✓ Everything in Verified
+
+✓ Full compliance report (20-40 pages)
+
+✓ Unlimited evaluations
+
+✓ Sales enablement (how to use certification)
+
+✓ Priority support
+
+
+
+Example: Series B company, 12 health system customers
+
+
+
+[Schedule Demo]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Trusted — $100K/year
+
+For: Enterprise vendors, SaMD companies
+
+Timeline: 6-8 weeks
+
+
+
+What you get:
+
+✓ Everything in Certified
+
+✓ Expert validation (not just automated)
+
+✓ Dedicated success manager
+
+✓ Co-marketing opportunities
+
+✓ Fast-track certification
+
+✓ Continuous monitoring
+
+
+
+Example: Public company selling to top-20 health systems
+
+
+
+[Talk to Sales]
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+WHY SPECTRAL
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+Why Health Systems Trust Us
+
+
+
+✓ Independent
+
+  Not affiliated with any AI vendor or health system
+
+  No incentive to favor anyone
+
+  Like SOC 2 auditors: neutral third party
+
+
+
+✓ Healthcare-Specific
+
+  Built for HIPAA, NIST AI RMF, FDA guidance
+
+  Not generic security testing
+
+  Understands healthcare workflows and risks
+
+
+
+✓ Works With Anyone
+
+  Not a closed platform (like Qualified Health)
+
+  Monitors Epic, OpenAI, imaging vendors, everything
+
+  You stay flexible, we provide governance
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Why Vendors Trust Us
+
+
+
+✓ Fair Testing
+
+  Same standards for everyone
+
+  Pass/fail is objective, not political
+
+  Results are private until you choose to share
+
+
+
+✓ Actually Helps Sales
+
+  5 health systems already accept Spectral verification
+
+  15+ more in pilot discussions
+
+  Network growing monthly
+
+
+
+✓ No Lock-In
+
+  Not a distribution platform
+
+  Not a marketplace
+
+  Pure verification service
+
+  You own your customer relationships
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Who Built This
+
+
+
+Founded by people who've lived this problem:
+
+
+
+• Former health system CISOs who built AI governance from scratch
+
+• FDA and compliance experts who wrote the regulations
+
+• AI engineers from leading AI companies
+
+
+
+We're the only team with all three perspectives.
+
+
+
+That's why Spectral works in the real world, not just in theory.
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+FREQUENTLY ASKED QUESTIONS
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+For Health Systems
+
+
+
+Q: What if we only have 3 AI vendors right now?
+
+
+
+A: Perfect. Start with Foundation ($75K/year).
+
+   As you adopt more AI, upgrade to Growth or Enterprise.
+
+   Most health systems add 5-10 AI vendors per year.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: How is this different from Qualified Health?
+
+
+
+A: Qualified Health is an AI platform for internal productivity.
+
+   Spectral is governance infrastructure for ALL your AI.
+
+   
+
+   You can use both:
+
+   • Qualified Health for employee chat/productivity
+
+   • Spectral to govern QH + Epic + imaging + everything
+
+   
+
+   We're complementary, not competitive.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: Can't we just build this ourselves?
+
+
+
+A: You could. But most health systems don't because:
+
+   
+
+   • Costs $15M+ and 3-5 years in engineering
+
+   • Need to hire specialized healthcare + AI + compliance engineers
+
+   • Regulations change quarterly (constant maintenance)
+
+   • Your mission is patient care, not building governance software
+
+   
+
+   We've built it. We maintain it. You focus on patients.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: Does this replace our compliance team?
+
+
+
+A: No. It augments them.
+
+   
+
+   Your team does: Strategic decisions, policy, board communication
+
+   Spectral does: Daily monitoring, evidence generation, automation
+
+   
+
+   Your team becomes more strategic, less reactive.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+For AI Vendors
+
+
+
+Q: How is this different from SOC 2 or HITRUST?
+
+
+
+A: Those certify your company's security.
+
+   Spectral certifies your AI model's behavior.
+
+   
+
+   Health systems want both:
+
+   • SOC 2: "Is your company secure?"
+
+   • Spectral: "Is your AI safe for clinical use?"
+
+   
+
+   Complementary. Not a replacement.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: What if we fail verification?
+
+
+
+A: Results are private until you share them.
+
+   
+
+   Gap report shows exactly what to fix:
+
+   • P1: Critical issues (PHI leakage, bias)
+
+   • P2: Compliance gaps
+
+   • P3: Best practices
+
+   
+
+   Most vendors iterate 1-2 times before going public.
+
+   We help you succeed.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: Do health systems actually accept this?
+
+
+
+A: Yes. 5 committed, 15+ in pilots.
+
+   
+
+   As more adopt (like SOC 2), it becomes expected.
+
+   Early vendors get competitive advantage.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: What happens when our model updates?
+
+
+
+A: Quarterly re-verification included (all plans).
+
+   
+
+   Certified and Trusted tiers get continuous monitoring:
+
+   • Detects model changes automatically
+
+   • Alerts if new risks introduced
+
+   • Streamlined re-test (not full re-audit)
+
+   
+
+   Badge stays current as your AI evolves.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+General
+
+
+
+Q: How often do regulations change?
+
+
+
+A: Constantly. New rules every 3-6 months:
+
+   • State AI laws (CA, CO, NYC)
+
+   • NIST AI RMF updates
+
+   • FDA guidance changes
+
+   • HIPAA interpretations
+
+   
+
+   Spectral tracks all of this automatically.
+
+   You stay compliant without manual monitoring.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Q: Are you affiliated with any AI vendor or health system?
+
+
+
+A: No. Completely independent.
+
+   
+
+   We don't sell AI. We don't favor anyone.
+
+   Pure verification service.
+
+   
+
+   That's why both sides trust us.
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Still have questions? [Book a call]
+
+
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+READY TO START?
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+For Health Systems
+
+
+
+Stop scrambling during audits.
+
+Start governing with real infrastructure.
+
+
+
+[Schedule Demo] [Calculate Savings]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+For AI Vendors
+
+
+
+Stop losing deals to 6-month security reviews.
+
+Start closing in weeks with verification.
+
+
+
+[Get Verified] [See Sample Trust Page]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+Questions? We're here to help.
+
+
+
+Email: hello@spectral.health
+
+[Book 30-min intro call]
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+
+© 2025 Spectral. All rights reserved.
+
+
+
+Independent healthcare AI verification you can trust.
+
+
+
+[LinkedIn] [Twitter] [Blog]
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+END CUSTOMER-FOCUSED COPY
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+
+KEY DIFFERENCES FROM PREVIOUS VERSION:
+
+
+
+REMOVED (too strategic/internal):
+
+✗ All "4-layer architecture" explanations
+
+✗ "Layer 3 translation engine as moat" exposition
+
+✗ "$150B coordination failure" market sizing
+
+✗ "We only had to build Layer 3" capital efficiency talk
+
+✗ Deep competitive analysis of why others can't replicate
+
+✗ Exposition on "open infrastructure" as strategic choice
+
+
+
+KEPT (just enough differentiation):
+
+✓ "Independent" (1 sentence - explains neutrality)
+
+✓ "Works with any vendor" (key differentiator from closed platforms)
+
+✓ "Not affiliated" (builds trust)
+
+✓ Brief mention of Qualified Health (positions against alternative)
+
+
+
+ADDED (customer-focused):
+
+✓ Their specific pain points (board questions, procurement delays)
+
+✓ What they get (see everything, monitor, prove compliance)
+
+✓ Real customer quotes (anonymized but specific)
+
+✓ Concrete examples (100-bed hospital, 2-person startup)
+
+✓ Simple ROI calculations (their math, not market sizing)
+
+
+
+TONE:
+
+• Empathetic to their pain
+
+• Direct about the solution
+
+• Minimal jargon
+
+• Results-focused
+
+• Easy to scan

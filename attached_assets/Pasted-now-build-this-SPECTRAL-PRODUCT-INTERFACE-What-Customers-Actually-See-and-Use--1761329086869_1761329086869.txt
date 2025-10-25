@@ -1,0 +1,554 @@
+now build this
+
+SPECTRAL PRODUCT INTERFACE
+What Customers Actually See and Use
+═══════════════════════════════════════════════════════════════════════════════
+FOR HEALTH SYSTEMS
+═══════════════════════════════════════════════════════════════════════════════
+
+LOGIN & DASHBOARD (What You See First)
+┌─────────────────────────────────────────────────────────────────┐
+│  🪐 Spectral                                    Jane Smith (CISO)│
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  AI Portfolio Health                          Last 30 Days      │
+│                                                                 │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐      │
+│  │    23    │  │    2     │  │    18    │  │   100%   │      │
+│  │ AI Systems│  │ At Risk  │  │ Verified │  │ Compliant│      │
+│  └──────────┘  └──────────┘  └──────────┘  └──────────┘      │
+│                                                                 │
+│  ⚠️ 2 systems need attention                                   │
+│  • Epic Ambient AI - Drift detected (see details →)           │
+│  • Radiology AI v2.1 - Re-verification due (schedule →)       │
+│                                                                 │
+│  ✅ Recent Actions                                             │
+│  • Imaging vendor certified (3 days ago)                       │
+│  • Board report generated (1 week ago)                         │
+│  • PHI leakage test passed (2 weeks ago)                       │
+│                                                                 │
+│  [View All Systems]  [Generate Board Report]  [Schedule Audit] │
+└─────────────────────────────────────────────────────────────────┘
+Key Features:
+
+One-glance health check
+Alerts bubble to top
+Direct links to take action
+No hunting through menus
+AI INVENTORY (Constellation)
+┌─────────────────────────────────────────────────────────────────┐
+│  All AI Systems (23)          [+ Add System]  [Export]  [Filter]│
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  System Name         Dept      Risk    Status      Last Check  │
+│  ─────────────────────────────────────────────────────────────  │
+│  🟢 Epic Ambient AI   Clinical  Med     ✅ Verified   2 days    │
+│  🔴 Radiology AI 2.1  Imaging   High    ⚠️ Drift      4 hours   │
+│  🟢 Nuance DAX        Clinical  Med     ✅ Verified   1 week    │
+│  🟢 Aidoc Stroke      Imaging   High    ✅ Verified   3 days    │
+│  🟡 Internal Chatbot  IT        Low     🔄 Testing    ongoing   │
+│  🟢 Coding AI         RCM       Med     ✅ Verified   5 days    │
+│                                                                 │
+│  [Click any row to see details]                                │
+└─────────────────────────────────────────────────────────────────┘
+Click on "Radiology AI 2.1":
+
+┌─────────────────────────────────────────────────────────────────┐
+│  ← Back to Inventory                                            │
+├─────────────────────────────────────────────────────────────────┤
+│  Radiology AI v2.1                                 🔴 Needs Action│
+│  Vendor: VizAI Inc.                                             │
+│  Department: Radiology                                          │
+│  Risk Level: High (processes patient imaging)                   │
+│                                                                 │
+│  ⚠️ ALERT: Model drift detected (4 hours ago)                  │
+│  Accuracy dropped 8% on chest X-rays in past 7 days            │
+│                                                                 │
+│  Recommended Actions:                                           │
+│  1. [Schedule vendor call] - Discuss retraining                │
+│  2. [Roll back to v2.0] - Automatic (click to confirm)         │
+│  3. [Review cases] - See which cases affected                  │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Tabs: Overview | Monitoring | Compliance | History            │
+│                                                                 │
+│  [Overview Tab - Currently Selected]                           │
+│                                                                 │
+│  Model Details:                                                 │
+│  • Version: 2.1.4                                              │
+│  • Deployed: 45 days ago                                       │
+│  • Processing: ~200 scans/day                                  │
+│  • Last verified: 30 days ago (re-verification due)           │
+│                                                                 │
+│  Clinical Use:                                                  │
+│  • Chest X-ray analysis                                        │
+│  • Pneumonia detection                                         │
+│  • Care pathway: ED triage                                     │
+│                                                                 │
+│  Ownership:                                                     │
+│  • Clinical owner: Dr. Sarah Chen (Radiology)                 │
+│  • IT owner: Mike Peterson (Clinical IT)                      │
+│  • Compliance: Jane Smith (you)                                │
+│                                                                 │
+│  Vendor Info:                                                   │
+│  • Contact: support@vizai.com                                  │
+│  • Contract: Expires Jan 2026                                  │
+│  • SLA: 99.9% uptime                                           │
+└─────────────────────────────────────────────────────────────────┘
+Click "Monitoring" tab:
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Radiology AI v2.1 > Monitoring                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Real-Time Health (Last 24 Hours)                              │
+│                                                                 │
+│  🟢 PHI Leakage: None detected                                 │
+│  🔴 Model Drift: 8% accuracy drop (ALERT)                      │
+│  🟢 Bias: Within tolerance (<5% variance)                      │
+│  🟢 Uptime: 99.9%                                              │
+│  🟢 Response Time: Avg 2.1 sec (normal)                        │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Drift Analysis (Past 7 Days)                                  │
+│                                                                 │
+│  [Graph showing accuracy declining from 94% → 86%]            │
+│                                                                 │
+│  Possible Causes:                                               │
+│  • Patient population change (new facility opened)             │
+│  • Imaging equipment update (new scanner type)                 │
+│  • Seasonal variation (flu season X-rays different)           │
+│                                                                 │
+│  Recommended: Contact vendor for model retraining              │
+│                                                                 │
+│  [Download Full Report]  [Schedule Vendor Call]                │
+└─────────────────────────────────────────────────────────────────┘
+Click "Compliance" tab:
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Radiology AI v2.1 > Compliance                                 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Compliance Status                                              │
+│                                                                 │
+│  ✅ HIPAA Security Rule        Last audit: 30 days ago         │
+│  ✅ NIST AI RMF               Mapped to 18 controls            │
+│  ✅ FDA SaMD Guidance         Class II (low-risk)              │
+│  ⚠️ Re-verification due        Schedule within 7 days          │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Evidence Documents (Audit-Ready)                               │
+│                                                                 │
+│  📄 HIPAA Risk Assessment (Jan 2025)       [Download PDF]      │
+│  📄 Clinical Validation Report (Dec 2024)  [Download PDF]      │
+│  📄 Bias Testing Results (Dec 2024)        [Download PDF]      │
+│  📄 Vendor BAA (signed Nov 2024)           [View Contract]     │
+│  📄 30-Day Activity Log (auto-generated)   [Download CSV]      │
+│                                                                 │
+│  [Generate Board Summary]  [Request Audit Package]             │
+└─────────────────────────────────────────────────────────────────┘
+REAL-TIME MONITORING (Sentinel)
+┌─────────────────────────────────────────────────────────────────┐
+│  🛡️ Real-Time Monitoring                              Live      │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Active Alerts (2)                                              │
+│                                                                 │
+│  🔴 HIGH - Radiology AI v2.1                         4 hours ago│
+│     Model drift detected (8% accuracy drop)                     │
+│     → [Investigate] [Roll back] [Dismiss]                      │
+│                                                                 │
+│  🟡 MEDIUM - Internal Chatbot                        2 days ago │
+│     Re-verification due in 7 days                               │
+│     → [Schedule] [Extend] [Dismiss]                            │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  All Systems Status                                             │
+│                                                                 │
+│  🟢 21 systems healthy                                          │
+│  🟡 1 system needs attention                                    │
+│  🔴 1 system critical                                           │
+│                                                                 │
+│  Last 24 Hours:                                                 │
+│  • 47,234 AI queries processed                                 │
+│  • 0 PHI leakage incidents                                     │
+│  • 1 drift alert triggered                                     │
+│  • 0 bias threshold violations                                 │
+│                                                                 │
+│  [View All Activity]  [Configure Alerts]                       │
+└─────────────────────────────────────────────────────────────────┘
+What Happens When PHI Leakage Detected:
+
+┌─────────────────────────────────────────────────────────────────┐
+│  🚨 CRITICAL ALERT - PHI LEAKAGE DETECTED                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  System: Internal Chatbot v1.2                                  │
+│  Time: 2 minutes ago                                            │
+│  Severity: CRITICAL                                             │
+│                                                                 │
+│  What Happened:                                                 │
+│  Model output contained pattern matching SSN format             │
+│  "Patient SSN: xxx-xx-1234"                                     │
+│                                                                 │
+│  Automated Actions Taken:                                       │
+│  ✅ Output blocked before reaching user                        │
+│  ✅ System rolled back to v1.1 (stable)                        │
+│  ✅ Incident logged for audit trail                            │
+│  ✅ IT Security team notified                                  │
+│                                                                 │
+│  Required Actions (per HIPAA §164.308):                        │
+│  ⚠️ Notify Privacy Officer within 24 hours                     │
+│  ⚠️ Assess if breach notification required                     │
+│  ⚠️ Document incident for annual report                        │
+│                                                                 │
+│  [Notify Privacy Officer]  [View Full Incident Report]         │
+│  [Schedule Vendor Review]  [Update Risk Assessment]            │
+└─────────────────────────────────────────────────────────────────┘
+COMPLIANCE REPORTING (Watchtower)
+┌─────────────────────────────────────────────────────────────────┐
+│  📊 Compliance Reports                                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Quick Reports (Auto-Generated)                                │
+│                                                                 │
+│  📄 Daily Compliance Summary (Today)        [Download PDF]     │
+│     All systems compliant, 1 alert resolved                     │
+│                                                                 │
+│  📄 Weekly Executive Summary (This Week)    [Download PDF]     │
+│     23 systems monitored, 99.9% uptime, 0 breaches            │
+│                                                                 │
+│  📄 Monthly Board Report (January 2025)     [Download PDF]     │
+│     Full compliance status, risk trends, recommendations        │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Audit Packages                                                 │
+│                                                                 │
+│  📦 HIPAA Annual Audit 2025                [Generate Package]  │
+│     All required evidence + activity logs + risk assessments    │
+│                                                                 │
+│  📦 State Reporting (California)           [Generate Package]  │
+│     SB1047 compliance, high-risk AI disclosures                │
+│                                                                 │
+│  📦 Custom Audit Request                   [Create New]        │
+│     Choose date range, systems, frameworks                      │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Framework Mapping                                              │
+│                                                                 │
+│  View compliance across frameworks:                             │
+│  [HIPAA] [NIST AI RMF] [FDA] [ISO 42001] [State Laws]         │
+└─────────────────────────────────────────────────────────────────┘
+Click "Generate Package" for HIPAA:
+
+┌─────────────────────────────────────────────────────────────────┐
+│  HIPAA Annual Audit Package                                     │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Generating audit package for:                                  │
+│  • Period: Jan 1 - Dec 31, 2025                                │
+│  • Systems: All 23 AI systems                                   │
+│  • Framework: HIPAA Security Rule                               │
+│                                                                 │
+│  Package will include:                                          │
+│                                                                 │
+│  ✅ Risk assessments (all systems)                             │
+│  ✅ Activity logs (365 days)                                    │
+│  ✅ Incident reports (if any)                                   │
+│  ✅ Vendor BAAs (all contracts)                                │
+│  ✅ Training records (staff certifications)                    │
+│  ✅ Policy documents (current versions)                        │
+│  ✅ Control evidence (automated tests)                         │
+│                                                                 │
+│  Estimated time: 2 minutes                                      │
+│  Package size: ~45 MB                                           │
+│                                                                 │
+│  [Generate Package]  [Cancel]                                   │
+│                                                                 │
+│  Note: Package will be available for 30 days after generation  │
+└─────────────────────────────────────────────────────────────────┘
+BOARD DASHBOARD (Constellation - Executive View)
+What the CEO/board sees:
+
+┌─────────────────────────────────────────────────────────────────┐
+│  Executive AI Portfolio Summary - January 2025                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Portfolio Health                                               │
+│                                                                 │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐            │
+│  │ 23 Systems  │  │ 100% HIPAA  │  │ $2.1M Value │            │
+│  │ Deployed    │  │ Compliant   │  │ (Est. ROI)  │            │
+│  └─────────────┘  └─────────────┘  └─────────────┘            │
+│                                                                 │
+│  Risk Summary (Green/Yellow/Red)                                │
+│  🟢 21 Low Risk  🟡 1 Medium Risk  🔴 1 High Risk (resolving)  │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Key Highlights                                                 │
+│                                                                 │
+│  ✅ Zero PHI breaches (365 days)                               │
+│  ✅ All AI systems verified independently                      │
+│  ✅ Regulatory compliance maintained (HIPAA, NIST, FDA)        │
+│  ⚠️ 1 system requires attention (radiology AI - drift)         │
+│                                                                 │
+│  Impact Metrics                                                 │
+│  • Physician time saved: 4,200 hours/month                     │
+│  • Patients served: 47,234 AI-assisted interactions            │
+│  • Claims processed: $18.3M (coding AI)                        │
+│                                                                 │
+│  [Download Full Report]  [Schedule Board Presentation]          │
+└─────────────────────────────────────────────────────────────────┘
+VENDOR DIRECTORY (Beacon - For Procurement)
+┌─────────────────────────────────────────────────────────────────┐
+│  🔷 Spectral Verified Vendors                                   │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Browse pre-verified vendors to fast-track procurement          │
+│                                                                 │
+│  Filter: [All] [Clinical AI] [Imaging] [Documentation] [RCM]  │
+│  Sort: [Recently Verified] [Name] [Category]                   │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  🏅 VizAI - Stroke Detection                    ✅ Spectral Verified│
+│     Verified: Jan 15, 2025 | Category: Imaging AI              │
+│     [View Trust Page] [Request Demo] [Start Evaluation]        │
+│                                                                 │
+│  🏅 Nuance - DAX Ambient                       ✅ Spectral Verified│
+│     Verified: Jan 3, 2025 | Category: Clinical Documentation   │
+│     [View Trust Page] [Request Demo] [Start Evaluation]        │
+│                                                                 │
+│  🏅 Abridge - Clinical Notes                   ✅ Spectral Verified│
+│     Verified: Dec 20, 2024 | Category: Documentation           │
+│     [View Trust Page] [Request Demo] [Start Evaluation]        │
+│                                                                 │
+│  [View All Verified Vendors (47)]                              │
+│                                                                 │
+│  Not seeing your vendor? [Invite them to get verified]         │
+└─────────────────────────────────────────────────────────────────┘
+Click "View Trust Page":
+
+┌─────────────────────────────────────────────────────────────────┐
+│  VizAI Stroke Detection - Trust Page                           │
+│  🏅 Spectral Verified - January 15, 2025                       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Verification Summary                                           │
+│                                                                 │
+│  ✅ PHI Protection: Passed                                      │
+│  ✅ Clinical Validation: 94% accuracy (verified)               │
+│  ✅ Bias Testing: <3% variance across demographics             │
+│  ✅ Security Testing: Passed adversarial testing               │
+│  ✅ Explainability: Saliency maps provided                     │
+│  ✅ Drift Monitoring: Built-in detection                       │
+│                                                                 │
+│  Compliance Mapping                                             │
+│  • HIPAA Security Rule: Compliant                              │
+│  • NIST AI RMF: 18/18 controls verified                        │
+│  • FDA SaMD: Class II guidance (low-risk)                      │
+│                                                                 │
+│  Clinical Use Case                                              │
+│  • Stroke detection in CT scans                                │
+│  • ED triage support                                           │
+│  • Processing time: <5 minutes                                 │
+│                                                                 │
+│  Vendor Information                                             │
+│  • Founded: 2016                                               │
+│  • Deployed at: 150+ hospitals                                 │
+│  • Contact: sales@vizai.com                                    │
+│                                                                 │
+│  [Download Full Compliance Report]  [Contact Vendor]           │
+│  [Add to Evaluation]  [Compare with Others]                    │
+└─────────────────────────────────────────────────────────────────┘
+═══════════════════════════════════════════════════════════════════════════════
+FOR AI VENDORS
+═══════════════════════════════════════════════════════════════════════════════
+
+VENDOR PORTAL - CERTIFICATION PROCESS
+┌─────────────────────────────────────────────────────────────────┐
+│  🔷 Spectral Vendor Portal                    VizAI Inc.        │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Your Certifications                                            │
+│                                                                 │
+│  🏅 VizAI Stroke Detection v2.1            ✅ Active            │
+│     Verified: Jan 15, 2025                                      │
+│     Expires: Apr 15, 2025 (90 days)                            │
+│     Status: Good standing                                       │
+│     [View Trust Page] [Renew Early] [Share Badge]              │
+│                                                                 │
+│  🔄 VizAI Hemorrhage Detection v1.0        🔄 In Progress       │
+│     Submitted: Jan 20, 2025                                     │
+│     Status: Testing (estimated 2 weeks)                         │
+│     [View Status] [Upload Additional Docs]                     │
+│                                                                 │
+│  [+ Submit New Model for Verification]                          │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Quick Stats (Last 30 Days)                                     │
+│  • Trust Page views: 234                                        │
+│  • Health systems reached: 18                                   │
+│  • Demo requests: 7                                             │
+│                                                                 │
+│  [View Analytics] [Download Marketing Kit]                     │
+└─────────────────────────────────────────────────────────────────┘
+SUBMIT NEW MODEL
+┌─────────────────────────────────────────────────────────────────┐
+│  Submit Model for Verification                                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Step 1: Basic Information                                      │
+│                                                                 │
+│  Model Name: [__________________________________]               │
+│  Version: [__________________________________]                  │
+│  Category: [Imaging AI ▼]                                      │
+│  Clinical Use Case: [________________________________]          │
+│                                                                 │
+│  Step 2: Technical Details                                      │
+│                                                                 │
+│  Model Architecture: [Transformer ▼]                           │
+│  Training Data: [Upload dataset summary]                        │
+│  PHI Handling: ☑ Uses PHI  ☐ No PHI                           │
+│  FDA Classification: [Class II (low-risk) ▼]                   │
+│                                                                 │
+│  Step 3: API Access                                             │
+│                                                                 │
+│  API Endpoint: [https://api.vizai.com/v2/stroke]              │
+│  API Key: [************************] (secure)                  │
+│  Test Environment: ☑ Provided  ☐ Production only              │
+│                                                                 │
+│  Step 4: Documentation                                          │
+│                                                                 │
+│  ☑ Clinical validation report uploaded                         │
+│  ☑ Architecture diagram uploaded                               │
+│  ☑ Security documentation uploaded                             │
+│  ☐ Bias testing results (upload required)                      │
+│  ☐ Model card (recommended)                                    │
+│                                                                 │
+│  [Upload Files]                                                 │
+│                                                                 │
+│  Step 5: Choose Tier                                            │
+│                                                                 │
+│  ○ Verified ($15K/year) - Automated only                       │
+│  ● Certified ($50K/year) - Automated + expert review           │
+│  ○ Trusted ($100K/year) - Deep assurance                       │
+│                                                                 │
+│  Estimated timeline: 4-6 weeks                                  │
+│                                                                 │
+│  [Submit for Verification]  [Save Draft]                       │
+└─────────────────────────────────────────────────────────────────┘
+CERTIFICATION IN PROGRESS
+┌─────────────────────────────────────────────────────────────────┐
+│  VizAI Hemorrhage Detection v1.0 - Verification Status          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Progress: Testing Phase (Week 2 of 4)                         │
+│                                                                 │
+│  ✅ Submission received (Jan 20)                                │
+│  ✅ Documentation review complete (Jan 22)                      │
+│  🔄 Automated testing in progress (Jan 23-29)                  │
+│  ⏳ Expert validation (Feb 1-8)                                │
+│  ⏳ Final report generation (Feb 10)                           │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Test Results (So Far)                                          │
+│                                                                 │
+│  ✅ PHI Leakage: Passed (0 incidents in 1,000 test cases)     │
+│  ✅ Security: Passed (resistant to prompt injection)           │
+│  🔄 Clinical Accuracy: Testing (1,500/2,000 cases complete)   │
+│  🔄 Bias: Testing (demographic analysis in progress)           │
+│  ⏳ Explainability: Pending                                     │
+│  ⏳ Drift Detection: Pending                                    │
+│                                                                 │
+│  [View Detailed Results]  [Contact Support]                    │
+│                                                                 │
+│  Note: You'll be notified when testing is complete             │
+└─────────────────────────────────────────────────────────────────┘
+FINAL RESULTS (Passed)
+┌─────────────────────────────────────────────────────────────────┐
+│  ✅ Certification Complete!                                     │
+│  VizAI Hemorrhage Detection v1.0                                │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Congratulations! Your model passed Spectral verification.      │
+│                                                                 │
+│  Verification Date: February 10, 2025                           │
+│  Valid Until: May 10, 2025 (90 days)                           │
+│                                                                 │
+│  Test Results:                                                  │
+│  ✅ PHI Protection: Passed                                      │
+│  ✅ Clinical Accuracy: 91% (exceeds threshold)                 │
+│  ✅ Bias: <4% variance (acceptable)                            │
+│  ✅ Security: Passed adversarial testing                       │
+│  ✅ Explainability: Attention maps provided                    │
+│  ✅ Drift Detection: Built-in monitoring verified              │
+│                                                                 │
+│  Your Trust Page is now live:                                   │
+│  🔗 spectral.health/verified/vizai-hemorrhage-v1               │
+│                                                                 │
+│  [View Trust Page] [Download Badge] [Download Full Report]     │
+│                                                                 │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  │
+│                                                                 │
+│  Next Steps:                                                    │
+│  1. Add Spectral Verified badge to your website                │
+│  2. Share Trust Page in sales pitches                          │
+│  3. Include in RFP responses                                    │
+│  4. Update marketing materials                                  │
+│                                                                 │
+│  [Download Marketing Kit] - Includes badge, Trust Page link,   │
+│                             sample email templates              │
+└─────────────────────────────────────────────────────────────────┘
+VENDOR ANALYTICS
+┌─────────────────────────────────────────────────────────────────┐
+│  📊 Trust Page Analytics - VizAI Stroke Detection               │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  Last 30 Days                                                   │
+│                                                                 │
+│  234 total views                                                │
+│  ↑ 23% vs previous month                                        │
+│                                                                 │
+│  Top Sources:                                                   │
+│  • 89 from RFP responses (38%)                                 │
+│  • 67 from your website (29%)                                  │
+│  • 45 from Spectral vendor directory (19%)                     │
+│  • 33 from email campaigns (14%)                               │
+│                                                                 │
+│  Engagement:                                                    │
+│  • 156 clicked "Download Report" (67%)                         │
+│  • 78 clicked "Contact Vendor" (33%)                           │
+│  • 34 added to procurement eval (15%)                          │
+│                                                                 │
+│  Health Systems Reached:                                        │
+│  18 unique organizations viewed your Trust Page                 │
+│                                                                 │
+│  Top Health Systems:                                            │
+│  • Johns Hopkins (8 views)                                     │
+│  • Cleveland Clinic (6 views)                                  │
+│  • Kaiser Permanente (5 views)                                 │
+│                                                                 │
+│  [Export Data] [View Trends] [Compare with Industry]           │
+└─────────────────────────────────────────────────────────────────┘
+KEY INTERFACE PRINCIPLES:
+No hunting - Critical info visible immediately
+Action-oriented - Every screen has clear next steps
+Alert-driven - Problems surface automatically
+One-click actions - Generate reports, roll back, notify
+Context-aware - Shows only relevant info for role
+Audit-ready - Everything documented, downloadable
+Mobile-friendly - Check status from anywhere
+Secure by default - Role-based access, audit logs
+This is what customers actually use every day.
+Not architecture diagrams. Just: "What's broken? How do I fix it? Can I prove we're compliant?"
+That's the product.
